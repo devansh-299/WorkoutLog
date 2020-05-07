@@ -1,0 +1,4 @@
+rootProject.name='WorkoutLog'
+include ':app'
+include ':domain'
+include ':androiddata'
